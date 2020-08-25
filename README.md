@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello 👋
+
+Seems that you are looking at my work account.  
+If you just randomly found me by my name, it's very likely you actually want my personal profile.
+
+[My personal GitHub](https://github.com/dmweis)
 
 <!--
 **david-weis-oxb/david-weis-oxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
